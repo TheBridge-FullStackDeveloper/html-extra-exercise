@@ -1,0 +1,78 @@
+td {
+  width: 100px;
+  height: 30px;
+  border: 1px solid;
+  text-align: center;
+}
+
+.row-1 {
+  background-color: beige;
+}
+
+.row-2 {
+  background-color: bisque;
+}
+
+.row-3 {
+  background-color: cadetblue;
+}
+
+.row-4 {
+  background-color: darkolivegreen;
+}
+
+.row-5 {
+  background-color: darkslategrey;
+}
+
+.row-6 {
+  background-color: goldenrod;
+}
+
+.row-7 {
+  background-color: lightcoral;
+}
+
+.row-8 {
+  background-color: lightseagreen;
+}
+
+.row-9 {
+  background-color: lightsteelblue;
+}
+
+.row-10 {
+  background-color: mistyrose;
+}
+
+.row-11 {
+  background-color: navajowhite;
+}
+
+.row-12 {
+  background-color: palegoldenrod;
+}
+
+.row-13 {
+  background-color: peachpuff;
+}
+
+.row-14 {
+  background-color: powderblue;
+}
+
+.row-15 {
+  background-color: rosybrown;
+}
+
+.row-16 {
+  background-color: thistle;
+}
+
+.row-17 {
+  background-color: wheat;
+}
+
+.row-18 {
+  background-color: skyblue;
+}
