@@ -1,5 +1,7 @@
 # Ejercicio
 
+
+
 ## Crea con HTML una página que quede tal que así:
 
 https://github.com/TheBridge-FullStackDeveloper/html-extra-exercise/blob/master/assets/extra-exercise-example.png
